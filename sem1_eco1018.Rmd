@@ -1,0 +1,209 @@
+---
+title: "ECO1018 (seminar 1)"
+author: "Edu Gonzalo Almorox"
+date: "e.gonzalo-almorox@newcastle.ac.uk"
+output:
+  beamer_presentation:
+  incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Question 1: Costs and economic decisions 
+
+Pete current situation: 
+
+  - DJ (10 sets per month): £1,000 night
+  - Gym:  £ 1,000
+  - Inherited warehouse: 
+      - Cost: £500,000
+      - Potential profit: £1M.
+      - Current profit: £3,000 per month.
+
+
+Nick´s suggestion: turning the warehouse into a nightclub? 
+  
+  - Potential running costs: £50,000 per month.
+  - Pete wouldn´t work as DJ in other clubs.
+  - Maybe quit his gym.
+
+  
+## Question 1: Costs and economic decisions 
+
+What are the costs? Should he do it? 
+
+
+
+## Question 1: Costs and economic decisions 
+
+**Costs** 
+
+ - £50,000 per month
+ - Other costs? 
+      - £10,000 month.
+      - £3,000 rent. 
+      - £1,000 gym (potential).
+
+**Should he do it?**
+
+- We don´t have enough information about the benefits associated with the new club. 
+- Decision rule: $B>C$
+- Pete´s preferences?
+
+## Question 2: Costs and economic decisions 
+
+Pete´s new suggestion: turning the warehouse into a nightclub and rent the warehouse next door?
+
+ - Cost: £2,000 month. 
+ 
+ What are the **choices** for Pete? 
+ 
+## Question 2: Costs and economic decisions 
+
+1. Finish tenancy agreement and use the warehouse for the new nightclub.
+    - Cost: £3,000 month.
+
+2. Keep tenancy agreement.
+    - Cost: £2,000 month.
+    - Benefits £3,000 month.
+
+**Option 2** should be preferred - it gives him an extra £1,000. Opportunity costs are important!
+
+ 
+## Question 3: Costs and benefits 
+
+The situation:
+
+- You receive a horrendous vase from a family friend who lives in Barbados.
+- Take a photo, send to him and bin the vase.
+- Your friend would be heartbroken if he discovers that you don´t like it but ...he lives in Barbados. 
+- Now your friend is back in England and wishing to visit.
+- There is an exact vase for £500.
+
+**What should you do?**
+
+   - Telling the truth?
+   - Replacing the vase?
+
+**Would the costs and benefits change if you were behaving rationally?**
+
+## Question 3: Costs and benefits 
+
+**Telling the truth**
+
+ - Benefits:
+    - You are honest; you feel good and therefore your utility increases.
+    - You save £500.
+ 
+ - Costs:
+    - Falling out with your friend over the earlier lie. 
+    - Hurt him (his feelings).
+    - (potentially) less future presents. 
+    
+## Question 3: Costs and benefits 
+
+  **Replacing the vase** 
+  
+  - Benefits: 
+    - Save your relationship with your friend.
+    - (potentially) more future presents. 
+  
+  - Costs: 
+    - £500 for the replacement
+    - You lie ... this may appear in the future.
+    
+  **Rationality**
+
+You are making choices in order to meet your self-interest and maximize your utility.
+
+ - You don´t care about your friend´s feelings.
+ - You may act strategically. 
+ - Altruistic behaviours may give you utility. 
+
+## Question 4: Costs and benefits   
+    
+The situation:  
+
+ - Your willingness to pay (WTP) for a chair is £600.
+ - Newcastle: chair for £500.
+ - York: chair for £250 - it cannot be real!
+    - Train (£50) and 5h visit.
+
+**What are the costs and benefits? What is the maximum value of your time that would make a trip to York worthwhile?**  
+    
+## Question 4: Costs and benefits 
+
+- Do you buy? Yes, $WTP > C$
+- Where?  
+ - York saves £250 
+ - Adds extra £50 
+ - Still we save £200 going to York.
+ - What is the cost of the hour in York? 
+ 
+## Question 5: Costs and benefits 
+ 
+Why can men often rent wedding suits, while brides almost always buy their dresses?
+
+## Question 5: Costs and benefits 
+ 
+
+- There are more styles of wedding dresses compared to wedding suits. 
+- A wedding company should have a larger selection of wedding dresses.
+- Each of those would be rented almost exclusively in comparison to men suits.
+- This is very expensive.
+
+## Question 6: Costs and benefits 
+
+In America, there are drive-through ATMs. The keypads of these ATMs have the numbers printed in normal letters as well as in Braille. Is there an economic explanation for this paradox?
+
+## Question 6: Costs and benefits 
+
+- What is the paradox? 
+    - Drive ATMs are useful for (non-blind) drivers. 
+    - Braille keypads are useful for blind people. 
+
+- Costs: Keypads are produced in large numbers. Producing an exclusive line based on Braille seems expensive.
+- Having Braille produces almost no-difference to people who can see.
+- Benefits are rather small.
+
+## Question 7: Thinking at the margin
+
+Supermarkets (e.g., my local Morrison’s) tend to reduce prices of freshly baked bread when it comes to closing time. They do not reduce the prices of other fresh produce, such as fruits. Why?
+
+
+## Question 7: Thinking at the margin
+
+- A day old bread is almost unsellable.
+- Decision: 
+    - Reduce prices and try to sell of the last units of bread.
+    - Not reducing prices and having to throw the bread away.
+
+
+## Question 8: Thinking at the margin 
+
+|  Quantity | Mg benefit(£)|
+|-----------|--------------|
+|  1        |  5           |  
+|  2        |  5           |  
+|  3        |  5           |  
+|  4        |  5           |
+|  5        |  5           |
+|  6        |  4.5         |
+|  7        |  4           |
+|  8        |  3.5         |
+|  9        |  3           |
+| 10        | -1           |
+
+Cost of a pint: £3
+
+  - **How much do you drink?**
+
+
+## Question 8: Thinking at the margin 
+
+- Decision rule: You will stop when $MgCost \geq MgBenefit$.
+- 9 pints.
+
+

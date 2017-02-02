@@ -1,0 +1,39 @@
+---
+title: "ECO1018 (seminar 4)"
+author: "Edu Gonzalo Almorox"
+date: "e.gonzalo-almorox@newcastle.ac.uk"
+output:
+  beamer_presentation:
+  incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Question 1: Ultimatum game 
+
+After a failed career as a nightclub owner, a sumo wrestler and working in the local chippy, Nick has left with an initial wealth of £10,000. Given his history of bad luck with actual jobs, he now turns to gambling. He has heard of an opportunity to earn some money by participating in experiments in his local university and shows up to participate in something called the ultimatum game. Nick is the receiving player (player 2) and is offered £1 out of £10. Enraged he refuses.
+
+1. Why? 
+
+2. A few weeks later, he participates in the same game set up by some oligarch. He is again player 2 and is offered £1million out of £100million. He accepts. Why?
+
+
+## Question 2: Altruism
+
+The government introduces a 30% subsidy on money spent on children related expenses. Evaluate the effects of this subsidy on the spending behaviour of a single father with a monthly income of £5000 and one child.
+
+
+## Question 3: Choice under uncertainty 
+
+Nick is risk averse (who would have thought that given his earlier choices) with a von Neumann-Morgenstern expected utility function $U = 1 - \frac{1}{M}$ where M is the present value of his lifetime income (measured in £1m). 
+
+He has currently two job offers and he expects to keep each job (if accepted) for the rest of his life. 
+
+1. **Janitor**: Lifetime income of 1. 
+
+2.  **Actor**:  Lifetime income of 400 if he is discovered by by Quentin Tarantino and will become world-famous by playing an ageing former nightclub owner, who turns sumo ringer after his unhealthy eating habits and drug addiction did not allow him to continue in his old job, in a movie that is best described as a combination of “Fear and loathing in Las Vegas” and “Machete”. Nick expects that this may happen with a 0.01 probability. If he is not discovered by Tarantino he will scrape by with an income of 0.1.
+
+What should he do and why?
+

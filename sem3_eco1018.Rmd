@@ -1,0 +1,39 @@
+---
+title: "ECO1018 (seminar 3)"
+author: "Edu Gonzalo Almorox"
+date: "e.gonzalo-almorox@newcastle.ac.uk"
+output:
+  beamer_presentation:
+  incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Question 1: Labour supply
+
+
+After a failed career as both a nightclub owner and a sumo wrestler, Nick is now looking for work. His only current alternative is the local chippy, where he could find work for £7 an hour for up to 80 hours per week. He has no non-labour income. Also ignore things like unemployment insurance.
+
+
+1. Draw Nick’s budget constraint.
+2. What is Nick’s optimal choice?
+3. What is the effect of a change in the wage rate to £14?
+
+## Question 2: Unemployment insurance 
+
+- **Current system** 
+ Minimum wage of £5 an hour. An individual is able to find work and work up to 100 hours per week for that wage rate. There are no further (legal) restrictions on working hours. 
+ - Benefits: Anyone not working receives unemployment benefits of £200 per week, which are reduced to £100 if the individual works between 1 and 10 hours and to 0 if the individual works more than 10 hours.
+
+- **Proposal**
+Under the new system, unemployment benefits would be £200 per week for someone who is not working. These would be reduced by 60p for every hour of work. Discuss the impact on labour supply for workers earning the minimum wage.
+
+Discuss
+
+## Question 3: Taxation
+- **System 1**: First £10,000 are tax-free, the next £20,000 are taxed at 20% and the remaining income is taxed at 40%.
+- **System 2**: Under the second system all income is taxed at 25%. 
+
+Compare the budget constraints for a worker earning £20 an hour. Maximum working time per week is 100 hours for 52 weeks per year. There is no further working hour regulation and there are no unemployment benefits.
